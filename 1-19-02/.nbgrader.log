@@ -51,3 +51,11 @@
 [NotebookApp | INFO] Saving file at /lists-methods.ipynb
 [NotebookApp | WARNING] Notebook lists-methods.ipynb is not trusted
 [NotebookApp | INFO] Starting buffering for 0a5766d0-b786-499f-a395-8ac1539eb83f:4c8a3b26322944189d6b697b574ae32b
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 258269f7-cdf9-4af9-be20-28b7fca33fe7
+[NotebookApp | INFO] Starting buffering for 258269f7-cdf9-4af9-be20-28b7fca33fe7:6ece547c542b4791b2641547019bcd34
+[NotebookApp | INFO] Kernel restarted: 258269f7-cdf9-4af9-be20-28b7fca33fe7
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 258269f7-cdf9-4af9-be20-28b7fca33fe7
+[NotebookApp | INFO] Restoring connection for 258269f7-cdf9-4af9-be20-28b7fca33fe7:6ece547c542b4791b2641547019bcd34
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Saving file at /practice1-solutions.ipynb
+[NotebookApp | INFO] Starting buffering for 258269f7-cdf9-4af9-be20-28b7fca33fe7:6ece547c542b4791b2641547019bcd34
