@@ -1,0 +1,53 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/allat/Documents/github/py-icef/1-19-02
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=580e75b9fca297170faeec17c4962275c1c51fd0d0496eca
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=580e75b9fca297170faeec17c4962275c1c51fd0d0496eca&token=580e75b9fca297170faeec17c4962275c1c51fd0d0496eca
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | INFO] Kernel started: 3885bb79-10f5-46e1-8a64-60b50a1b5528
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 3885bb79-10f5-46e1-8a64-60b50a1b5528
+[NotebookApp | INFO] Saving file at /lecture-lists.ipynb
+[NotebookApp | INFO] Starting buffering for 3885bb79-10f5-46e1-8a64-60b50a1b5528:01550cc05b9a4ea8ada40665d4134718
+[NotebookApp | INFO] Kernel started: 918a1c19-5aea-484e-b1a8-d2459bb228a0
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 918a1c19-5aea-484e-b1a8-d2459bb228a0
+[NotebookApp | INFO] Starting buffering for 918a1c19-5aea-484e-b1a8-d2459bb228a0:5cf3a30ff08f413592117dfe36a47a9d
+[NotebookApp | INFO] Kernel shutdown: 918a1c19-5aea-484e-b1a8-d2459bb228a0
+[NotebookApp | WARNING] delete /strings.ipynb
+[NotebookApp | INFO] Kernel started: 34a79ebc-7100-419e-8a25-02281bb2bc9c
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 34a79ebc-7100-419e-8a25-02281bb2bc9c
+[NotebookApp | INFO] Saving file at /strings.ipynb
+[NotebookApp | INFO] Saving file at /strings.ipynb
+[NotebookApp | INFO] Saving file at /strings.ipynb
+[NotebookApp | INFO] Starting buffering for 34a79ebc-7100-419e-8a25-02281bb2bc9c:3c14331a47d6475d874079a7576ddee7
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 34a79ebc-7100-419e-8a25-02281bb2bc9c
+[NotebookApp | INFO] Starting buffering for 34a79ebc-7100-419e-8a25-02281bb2bc9c:b76d4cd8967840138fe29ff1ff6ff36c
+[NotebookApp | INFO] Kernel started: 956046a0-4e2b-4b80-9956-b37093e79d56
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 956046a0-4e2b-4b80-9956-b37093e79d56
+[NotebookApp | INFO] Saving file at /practice-1.ipynb
+[NotebookApp | INFO] Saving file at /practice-1.ipynb
+[NotebookApp | INFO] Saving file at /practice-1.ipynb
+[NotebookApp | INFO] Starting buffering for 956046a0-4e2b-4b80-9956-b37093e79d56:1262e2e921f6435081f4b3ebae5153d7
+[NotebookApp | INFO] Uploading file to /practice1-solutions.ipynb
+[NotebookApp | WARNING] Notebook practice1-solutions.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 258269f7-cdf9-4af9-be20-28b7fca33fe7
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 258269f7-cdf9-4af9-be20-28b7fca33fe7
+[NotebookApp | INFO] Saving file at /practice1-solutions.ipynb
+[NotebookApp | INFO] Saving file at /practice1-solutions.ipynb
+[NotebookApp | INFO] Saving file at /practice1-solutions.ipynb
+[NotebookApp | INFO] Saving file at /practice1-solutions.ipynb
+[NotebookApp | INFO] Saving file at /practice1-solutions.ipynb
+[NotebookApp | INFO] Saving file at /practice1-solutions.ipynb
+[NotebookApp | INFO] Starting buffering for 258269f7-cdf9-4af9-be20-28b7fca33fe7:d4a553f4f4144a118b83b2df219dc410
+[NotebookApp | WARNING] Notebook lists-methods.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 0a5766d0-b786-499f-a395-8ac1539eb83f
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 0a5766d0-b786-499f-a395-8ac1539eb83f
+[NotebookApp | INFO] Saving file at /lists-methods.ipynb
+[NotebookApp | WARNING] Notebook lists-methods.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for 0a5766d0-b786-499f-a395-8ac1539eb83f:4c8a3b26322944189d6b697b574ae32b
