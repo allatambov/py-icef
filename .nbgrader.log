@@ -16,3 +16,40 @@
 [NotebookApp | INFO] Saving file at /add/HW2-adv.ipynb
 [NotebookApp | INFO] Saving file at /add/HW2-adv.ipynb
 [NotebookApp | INFO] Starting buffering for 10dbed2d-3492-4140-95fc-d320f34f15dd:d7d5266e024149c883f951ded83a8024
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/allat/Documents/github/py-icef
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=2a3ed3c65bca1b2ffc0173cef1fc2ef275b2899fa9e0f705
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=2a3ed3c65bca1b2ffc0173cef1fc2ef275b2899fa9e0f705&token=2a3ed3c65bca1b2ffc0173cef1fc2ef275b2899fa9e0f705
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | WARNING] Notebook 3-12-03/practice-3-solutions.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 93b15f7f-90c7-48da-bf08-daa423c9b81a
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 93b15f7f-90c7-48da-bf08-daa423c9b81a
+[NotebookApp | INFO] Starting buffering for 93b15f7f-90c7-48da-bf08-daa423c9b81a:23503bc5a6ad4b2485bbf569695b8bca
+[NotebookApp | INFO] Kernel started: c81e37c7-e48a-4ed7-8d4a-5070ef800b44
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel c81e37c7-e48a-4ed7-8d4a-5070ef800b44
+[NotebookApp | INFO] Saving file at /3-12-03/base_pandas.ipynb
+[NotebookApp | INFO] Starting buffering for c81e37c7-e48a-4ed7-8d4a-5070ef800b44:2b867b292e3c422091623223bc9f8e71
+[NotebookApp | INFO] Kernel started: a65cb5cf-7979-45c3-98dc-abb6747272b8
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a65cb5cf-7979-45c3-98dc-abb6747272b8
+[NotebookApp | INFO] Saving file at /3-12-03/intro_pandas.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel c81e37c7-e48a-4ed7-8d4a-5070ef800b44
+[NotebookApp | INFO] Saving file at /3-12-03/pandas1.ipynb
+[NotebookApp | INFO] Starting buffering for c81e37c7-e48a-4ed7-8d4a-5070ef800b44:9d73d13e42ea496ea6929df525936502
+[NotebookApp | INFO] Starting buffering for a65cb5cf-7979-45c3-98dc-abb6747272b8:3777f41d6ce94fdb938b8ddc8fb66147
+[NotebookApp | WARNING] Notebook 3-12-03/practice-3-solutions.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 93b15f7f-90c7-48da-bf08-daa423c9b81a
+[NotebookApp | INFO] Starting buffering for 93b15f7f-90c7-48da-bf08-daa423c9b81a:238d53319a134a4cab832b74897b63f2
+[NotebookApp | INFO] 302 GET / (::1) 0.58ms
+[NotebookApp | WARNING] Notebook 4-19-03/practice4.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: bb9eef0f-39ad-4cb8-8636-0363e5001005
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel bb9eef0f-39ad-4cb8-8636-0363e5001005
+[NotebookApp | INFO] Saving file at /4-19-03/practice4.ipynb
+[NotebookApp | INFO] Starting buffering for bb9eef0f-39ad-4cb8-8636-0363e5001005:b4ac4442d9414e139f3b6976f39fb0b3
