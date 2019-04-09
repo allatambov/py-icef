@@ -224,3 +224,103 @@
 [NotebookApp | INFO] Saving file at /Untitled1.ipynb
 [NotebookApp | INFO] Saving file at /Untitled1.ipynb
 [NotebookApp | INFO] Starting buffering for 1d4fd979-fb0b-4b4a-bb69-2a8fafa6fd98:af1cae637723491886dc5b87a66e6193
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/allat/Documents/github/py-icef
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8889/?token=35095282c82aae9f56658ee9daff645e34d345b3dc9ac1e4
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8889/?token=35095282c82aae9f56658ee9daff645e34d345b3dc9ac1e4&token=35095282c82aae9f56658ee9daff645e34d345b3dc9ac1e4
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | INFO] Kernel started: b21f3181-eca8-429c-9c73-d09f8f8bd922
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel b21f3181-eca8-429c-9c73-d09f8f8bd922
+[NotebookApp | INFO] Saving file at /5-02-04/web-scrape.ipynb
+[NotebookApp | INFO] Saving file at /5-02-04/web-scrape.ipynb
+[NotebookApp | INFO] Saving file at /5-02-04/web-scrape.ipynb
+[NotebookApp | INFO] Starting buffering for b21f3181-eca8-429c-9c73-d09f8f8bd922:2a584a0819224e6390181ed6802e4eda
+[NotebookApp | WARNING] Notebook 6-09-04/lect-selenium-1.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: f8591c45-3117-4a51-aedb-dd28bb9c3257
+[NotebookApp | WARNING] 404 GET /notebooks/6-09-04/css-enter2.png (::1): No such file or directory: 6-09-04/css-enter2.png
+[NotebookApp | WARNING] 404 GET /notebooks/6-09-04/css-enter2.png (::1) 13.98ms referer=http://localhost:8889/notebooks/6-09-04/lect-selenium-1.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/6-09-04/css.png (::1): No such file or directory: 6-09-04/css.png
+[NotebookApp | WARNING] 404 GET /notebooks/6-09-04/css.png (::1) 2.47ms referer=http://localhost:8889/notebooks/6-09-04/lect-selenium-1.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/6-09-04/css-uik.png (::1): No such file or directory: 6-09-04/css-uik.png
+[NotebookApp | WARNING] 404 GET /notebooks/6-09-04/css-uik.png (::1) 2.15ms referer=http://localhost:8889/notebooks/6-09-04/lect-selenium-1.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/6-09-04/css-enter.png (::1): No such file or directory: 6-09-04/css-enter.png
+[NotebookApp | WARNING] 404 GET /notebooks/6-09-04/css-enter.png (::1) 1.92ms referer=http://localhost:8889/notebooks/6-09-04/lect-selenium-1.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/6-09-04/page.png (::1): No such file or directory: 6-09-04/page.png
+[NotebookApp | WARNING] 404 GET /notebooks/6-09-04/page.png (::1) 2.13ms referer=http://localhost:8889/notebooks/6-09-04/lect-selenium-1.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel f8591c45-3117-4a51-aedb-dd28bb9c3257
+[NotebookApp | INFO] Saving file at /6-09-04/lect-selenium-1.ipynb
+[NotebookApp | WARNING] Notebook 6-09-04/lect-selenium-1.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /6-09-04/lect-selenium-1.ipynb
+[NotebookApp | WARNING] Notebook 6-09-04/lect-selenium-1.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /6-09-04/lect-selenium-1.ipynb
+[NotebookApp | WARNING] Notebook 6-09-04/lect-selenium-1.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for f8591c45-3117-4a51-aedb-dd28bb9c3257:1fdeff43d2fe4ac08d00212f05c9c665
+[NotebookApp | INFO] Kernel restarted: f8591c45-3117-4a51-aedb-dd28bb9c3257
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel f8591c45-3117-4a51-aedb-dd28bb9c3257
+[NotebookApp | INFO] Restoring connection for f8591c45-3117-4a51-aedb-dd28bb9c3257:1fdeff43d2fe4ac08d00212f05c9c665
+[NotebookApp | INFO] Replaying 5 buffered messages
+[NotebookApp | INFO] Saving file at /6-09-04/lect-selenium-1.ipynb
+[NotebookApp | WARNING] Notebook 6-09-04/lect-selenium-1.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /6-09-04/lect-selenium-1.ipynb
+[NotebookApp | WARNING] Notebook 6-09-04/lect-selenium-1.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /6-09-04/lect-selenium-1.ipynb
+[NotebookApp | WARNING] Notebook 6-09-04/lect-selenium-1.ipynb is not trusted
+[NotebookApp | INFO] 302 GET /notebooks/6-09-04/css.png (::1) 1.01ms
+[NotebookApp | INFO] Saving file at /6-09-04/lect-selenium-1.ipynb
+[NotebookApp | WARNING] Notebook 6-09-04/lect-selenium-1.ipynb is not trusted
+[NotebookApp | INFO] 302 GET /notebooks/6-09-04/css-enter2.png (::1) 0.94ms
+[NotebookApp | INFO] 302 GET /notebooks/6-09-04/css-enter.png (::1) 1.21ms
+[NotebookApp | WARNING] 404 GET /notebooks/6-09-04/page.png (::1): No such file or directory: 6-09-04/page.png
+[NotebookApp | WARNING] 404 GET /notebooks/6-09-04/page.png (::1) 4.64ms referer=http://localhost:8889/notebooks/6-09-04/lect-selenium-1.ipynb
+[NotebookApp | INFO] Saving file at /6-09-04/lect-selenium-1.ipynb
+[NotebookApp | INFO] Saving file at /6-09-04/lect-selenium-1.ipynb
+[NotebookApp | INFO] Saving file at /6-09-04/lect-selenium-1.ipynb
+[NotebookApp | INFO] Saving file at /6-09-04/lect-selenium-1.ipynb
+[NotebookApp | INFO] Saving file at /6-09-04/lect-selenium-1.ipynb
+[NotebookApp | INFO] Saving file at /6-09-04/lect-selenium-1.ipynb
+[NotebookApp | INFO] Saving file at /6-09-04/lect-selenium-1.ipynb
+[NotebookApp | INFO] Starting buffering for f8591c45-3117-4a51-aedb-dd28bb9c3257:1fdeff43d2fe4ac08d00212f05c9c665
+[NotebookApp | WARNING] Notebook 6-09-04/lect-selenium2.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: e740cd5c-3a19-47f0-9389-c57f695214ab
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel e740cd5c-3a19-47f0-9389-c57f695214ab
+[NotebookApp | INFO] Saving file at /6-09-04/lect-selenium2.ipynb
+[NotebookApp | WARNING] Notebook 6-09-04/lect-selenium2.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /6-09-04/lect-selenium2.ipynb
+[NotebookApp | WARNING] Notebook 6-09-04/lect-selenium2.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /6-09-04/lect-selenium2.ipynb
+[NotebookApp | WARNING] Notebook 6-09-04/lect-selenium2.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /6-09-04/lect-selenium2.ipynb
+[NotebookApp | WARNING] Notebook 6-09-04/lect-selenium2.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /6-09-04/lect-selenium2.ipynb
+[NotebookApp | WARNING] Notebook 6-09-04/lect-selenium2.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for e740cd5c-3a19-47f0-9389-c57f695214ab:193909ce521f4e4d853e8afb036edd87
+[NotebookApp | INFO] Kernel restarted: e740cd5c-3a19-47f0-9389-c57f695214ab
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel e740cd5c-3a19-47f0-9389-c57f695214ab
+[NotebookApp | INFO] Restoring connection for e740cd5c-3a19-47f0-9389-c57f695214ab:193909ce521f4e4d853e8afb036edd87
+[NotebookApp | INFO] Replaying 3 buffered messages
+[NotebookApp | INFO] Saving file at /6-09-04/lect-selenium2.ipynb
+[NotebookApp | INFO] Saving file at /6-09-04/lect-selenium2.ipynb
+[NotebookApp | INFO] Kernel interrupted: e740cd5c-3a19-47f0-9389-c57f695214ab
+[NotebookApp | INFO] Saving file at /6-09-04/lect-selenium2.ipynb
+[NotebookApp | INFO] Kernel interrupted: e740cd5c-3a19-47f0-9389-c57f695214ab
+[NotebookApp | INFO] Saving file at /6-09-04/lect-selenium2.ipynb
+[NotebookApp | INFO] Saving file at /6-09-04/lect-selenium2.ipynb
+[NotebookApp | INFO] Saving file at /6-09-04/lect-selenium2.ipynb
+[NotebookApp | INFO] Saving file at /6-09-04/lect-selenium2.ipynb
+[NotebookApp | INFO] Saving file at /6-09-04/lect-selenium2.ipynb
+[NotebookApp | INFO] Kernel interrupted: e740cd5c-3a19-47f0-9389-c57f695214ab
+[NotebookApp | INFO] Starting buffering for e740cd5c-3a19-47f0-9389-c57f695214ab:193909ce521f4e4d853e8afb036edd87
+[NotebookApp | INFO] Kernel restarted: e740cd5c-3a19-47f0-9389-c57f695214ab
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel e740cd5c-3a19-47f0-9389-c57f695214ab
+[NotebookApp | INFO] Restoring connection for e740cd5c-3a19-47f0-9389-c57f695214ab:193909ce521f4e4d853e8afb036edd87
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Saving file at /6-09-04/lect-selenium2.ipynb
+[NotebookApp | INFO] Saving file at /6-09-04/lect-selenium2.ipynb
