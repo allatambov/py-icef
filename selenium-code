@@ -1,5 +1,5 @@
+br = wb.Chrome("/Users/allat/Downloads/chromedriver")
 def get_address(n_uik, reg):
-    br = wb.Chrome("/Users/allat/Downloads/chromedriver")
     br.get("http://www.cikrf.ru/services/lk_address/?do=find_by_uik")
     uik_field = br.find_element_by_css_selector('#uik')
     uik_field.send_keys(n_uik) 
@@ -16,5 +16,6 @@ def get_address(n_uik, reg):
            texts))[0]  
     except:
         address = None
+    print(n_uik)
     return n_uik, address
-    
+  
